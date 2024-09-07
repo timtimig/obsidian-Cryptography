@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "650405b624f5574e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7512db2cc452bf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f29be4e9994a017a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/Associate Developer/Tech Essentials/Lambda.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba7e2557c22fdf2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd1e58922224809b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "374a83a706d662c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91a6cd17fe38c58c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "72071fb4878a04cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "201c19ec95c8e57b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a7a1fa2a1c5f52c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e659cfeb6034fa98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AWS/Associate Developer/Tech Essentials/Lambda.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bef048cf4955b965",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AWS/Associate Developer/Tech Essentials/Lambda.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2928f716134e21e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "89ad0b40dcf41000",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AWS/Associate Developer/Tech Essentials/Lambda.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f29be4e9994a017a",
+  "lastOpenFiles": [
+    "Cryptography/X.509.md",
+    "Cryptography/Untitled.md",
+    "Cryptography/Symmetric encryption.md",
+    "Cryptography/Asymmetric encryption.md",
+    "Cryptography/Asymmetric cryptography.md",
+    "Cryptography/Public-key cryptography.md",
+    "Cryptography/Welcome.md",
+    "Cryptography",
+    "AWS/Associate Developer/Tech Essentials/Fargate.md",
+    "AWS/Associate Developer/Tech Essentials/EC2.md",
+    "AWS/Associate Developer/Tech Essentials/3.0 Compute.md",
+    "AWS/Associate Developer/Tech Essentials/Lambda.md",
+    "AWS/Associate Developer/Tech Essentials/ECS.md",
+    "AWS/Associate Developer/Tech Essentials/EKS.md",
+    "AWS/Associate Developer/Tech Essentials/1.0 AWS Infrastructure.md",
+    "AWS/Associate Developer/Tech Essentials/Interacting.md",
+    "AWS/Associate Developer/Tech Essentials/EBS.md",
+    "AWS/Associate Developer/Tech Essentials/Pricing.md",
+    "AWS/Associate Developer/Tech Essentials/IAM.md",
+    "AWS/Associate Developer/Tech Essentials/Instance lifecycle.md",
+    "AWS/Associate Developer/Tech Essentials/Region.md",
+    "AWS/Associate Developer/Tech Essentials/Container services.md",
+    "Untitled.md",
+    "AWS/EC2.md",
+    "AWS/Associate Developer/Tech Essentials/3.0 Compute as a Service.md",
+    "AWS/Associate Developer/Tech Essentials/3.0 Computing.md",
+    "AWS/Associate Developer/Tech Essentials/Untitled.md",
+    "AWS/Associate Developer/Tech Essentials",
+    "AWS/Tech Essentials",
+    "AWS/Untitled",
+    "AWS/Associate Developer",
+    "AWS",
+    "Untitled"
+  ]
+}
